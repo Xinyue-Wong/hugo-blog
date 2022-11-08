@@ -1,0 +1,40 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: Research
+    url: '#projects'
+    weight: 20
+  - name: About Me
+    identifier: items
+    weight: 30
+  - name: In COMputation Island
+    parent: items
+    url: items/incomputationisland/
+    weight: 10
+  - name: In Swarm Club
+    parent: items
+    url: items/inswarmclub/
+    weight: 20
+  - name: In Academia Café
+    parent: items
+    url: items/inacademiacafe/
+    weight: 30
+  - name: Post
+    url: '/post/'
+    weight: 50
+  - name: Contact
+    url: '#contact'
+    weight: 70
+    
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+  - name: CV
+    url: files/cv.pdf
+    weight: 60

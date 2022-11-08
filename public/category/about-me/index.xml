@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me | Xinyue Wang</title>
+    <link>https://52at.me/category/about-me/</link>
+      <atom:link href="https://52at.me/category/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <description>About Me</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://52at.me/media/icon_hu7cd1d57bc3146fd51fe8cbf10b88c8e9_160592_512x512_fill_lanczos_center_3.png</url>
+      <title>About Me</title>
+      <link>https://52at.me/category/about-me/</link>
+    </image>
+    
+    <item>
+      <title>In Academia Cafe</title>
+      <link>https://52at.me/items/inacademiacafe/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://52at.me/items/inacademiacafe/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an &lt;strong&gt;Executive Officer&lt;/strong&gt; of Academia Café.&lt;/p&gt;
+&lt;p&gt;Academia Café is a non-profit academic sharing community under the Chinese Doctoral Students Association (CDSA).&lt;/p&gt;
+&lt;p&gt;Academia Café regularly organizes workshops and community events centered on academic and personal development to build an inclusive and growing-oriented community of academics centered on internal mutual support and external public sharing.&lt;/p&gt;
+&lt;p&gt;My work is mainly responsible for:&lt;br&gt;
+a. Post information on Ph.D. applications and postdoc &amp;amp; faculty job posts.&lt;br&gt;
+b. Organized Ph.D. application information sessions and managed the internal book club.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In COMputation Island</title>
+      <link>https://52at.me/items/incomputationisland/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://52at.me/items/incomputationisland/</guid>
+      <description>&lt;p&gt;I’m an editor of &lt;strong&gt;COMputation Island (“计传岛” in Chinese)&lt;/strong&gt; . &lt;strong&gt;COMputation Island&lt;/strong&gt; is a WeChat-based online platform for developing computational communication research (CCR) and computational social science research, founded by &lt;a href=&#34;https://yingdanlu.com/account/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yingdan Lu&lt;/a&gt; from Stanford University, and co-founded with &lt;a href=&#34;https://yiyanzhang.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yiyan Zhang&lt;/a&gt; from Boston University and &lt;a href=&#34;https://scholar.google.com/citations?user=EnJAHNsAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zening Duan&lt;/a&gt; from the University of Wisconsin-Madison.&lt;/p&gt;
+&lt;p&gt;In October 2022, I published a WeChat article of &lt;strong&gt;Agent-Based Modeling&lt;/strong&gt; (&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=Mzg5MDU2MjgyNg==&amp;amp;mid=2247485538&amp;amp;idx=1&amp;amp;sn=83067f157b842a068107873833c04d11&amp;amp;chksm=cfdbf807f8ac71112bc91eca6d10ef2b51379d79306d7839a4890ad60a0ae2652c278d1e9d1a&amp;amp;token=1711582554&amp;amp;lang=zh_CN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article Link&lt;/a&gt;) in cooperation with &lt;a href=&#34;https://www.jiangyanru.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joyce Jiang&lt;/a&gt; from UCLA and Xinyue Chen from Peking University. This article provides an easy-to-understand introduction to &lt;strong&gt;Agent-Based Modeling&lt;/strong&gt;. We provide several pieces of information on the advantages, functions, applications, controversies, and limitations of Agent-Based Modeling. We also list some tools and learning materials for &lt;strong&gt;Agent-Based Modeling&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In Swarm Club</title>
+      <link>https://52at.me/items/inswarmclub/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://52at.me/items/inswarmclub/</guid>
+      <description>&lt;p&gt;I’m an operation assistant at &lt;strong&gt;Computational Social Science Websenimar in Swarm Club&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Swarm Club was founded by &lt;a href=&#34;https://jake.swarma.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiang Zhang&lt;/a&gt;, a professor at School of Systems Science, Beijing Normal University. Swarm Club is a group of explorers engaged in academic research and enjoying the fun of science. It is also the earliest scientific community in China to study &lt;strong&gt;artificial intelligence and complex system&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The Computational Social Science Websenimar was led by Luo Jiade from Tsinghua University and co-sponsored by Ph.D. students from Carnegie Mellon University, University of Michigan, Tsinghua University, and University of Pittsburgh. The Websenimar focused on &lt;strong&gt;Graphs, Embedding, NLP, Modeling, data collection&lt;/strong&gt;, and their integration with social science issues. It also focused on topics such as prediction and interpretation, and research on COVID-19.&lt;/p&gt;
+&lt;p&gt;From June 2022 to October 2022, I engaged in the operation of Computational Social Science Websenimar in Swarm Club. My work is mainly responsible for:&lt;/p&gt;
+&lt;p&gt;a. Contacted scholars from diverse backgrounds to facilitate research cooperation.&lt;br&gt;
+b. Led book club discussions; organized online and offline academic events.&lt;br&gt;
+c. &lt;strong&gt;Contributed notes and learning materials on computational social science&lt;/strong&gt;, especially on the topic of &lt;strong&gt;Information Diffusion, Attention Flow, and Reflection on the Logic of Computational Social Science&lt;/strong&gt;.&lt;br&gt;
+d. Encouraged members within the community to produce high-quality content.&lt;br&gt;
+e. &lt;strong&gt;Planned and organized workshops and seminars on personal growth and academic development&lt;/strong&gt;, and invited guest speakers (&lt;a href=&#34;https://scholar.google.com/citations?user=tMNsrlQAAAAJ&amp;amp;hl=zh-CN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hongbo Fang&lt;/a&gt; from CMU and &lt;a href=&#34;https://scholar.google.com/citations?user=1Y4OvMIAAAAJ&amp;amp;hl=zh-CN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anfan Chen&lt;/a&gt; from CUHK) to share experiences about the academia and the industry.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

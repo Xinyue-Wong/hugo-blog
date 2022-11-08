@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://52at.me/sitemap.xml
